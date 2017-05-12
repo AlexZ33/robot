@@ -50,7 +50,7 @@ run()
 ![图片描述][2]
 
 
-##自动登录cnode论坛
+## 自动登录cnode论坛
 新建一个config.js文件  
 
 ```
@@ -91,4 +91,7 @@ const login = async () =>{
 
 run()
 ```
-![图片描述][3]
+ ![图片描述][3]
+  [1]: /img/bVNz3b
+  [2]: /img/bVNz6e
+  [3]: /img/bVNBtN
