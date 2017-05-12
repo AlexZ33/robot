@@ -1,9 +1,9 @@
 简单的搜索脚本
 -------
 
-安装 [nightmare](https://github.com/segmentio/nightmare)
-安装 [babel-register](http://babeljs.io/docs/setup/#installation)
-安装 [babel-polyfill](http://babeljs.io/docs/usage/polyfill/)
+- 安装 [nightmare](https://github.com/segmentio/nightmare)
+- 安装 [babel-register](http://babeljs.io/docs/setup/#installation)
+- 安装 [babel-polyfill](http://babeljs.io/docs/usage/polyfill/)
 
 ```
 const Nightmare = require('nightmare');
