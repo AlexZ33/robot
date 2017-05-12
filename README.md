@@ -92,6 +92,6 @@ const login = async () =>{
 run()
 ```
  ![Õº∆¨√Ë ˆ][3]
-  [1]: /img/bVNz3b
-  [2]: /img/bVNz6e
-  [3]: /img/bVNBtN
+  [1]: http://on891bjlf.bkt.clouddn.com/hexo/GIF.gif
+  [2]: http://on891bjlf.bkt.clouddn.com/gif/F.gif
+  [3]: http://on891bjlf.bkt.clouddn.com/gif/IF.gif
