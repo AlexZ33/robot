@@ -44,10 +44,10 @@ run()
 ```
 
 
-![Í¼Æ¬ÃèÊö][1]
+![Í¼Æ¬ÃèÊö](http://on891bjlf.bkt.clouddn.com/hexo/GIF.gif)
 
 
-![Í¼Æ¬ÃèÊö][2]
+![Í¼Æ¬ÃèÊö](http://on891bjlf.bkt.clouddn.com/gif/F.gif)
 
 
 ## ×Ô¶¯µÇÂ¼cnodeÂÛÌ³
@@ -91,7 +91,4 @@ const login = async () =>{
 
 run()
 ```
- ![Í¼Æ¬ÃèÊö][3]
-  [1]: http://on891bjlf.bkt.clouddn.com/hexo/GIF.gif
-  [2]: http://on891bjlf.bkt.clouddn.com/gif/F.gif
-  [3]: http://on891bjlf.bkt.clouddn.com/gif/IF.gif
+ ![Í¼Æ¬ÃèÊö](http://on891bjlf.bkt.clouddn.com/gif/IF.gif)
